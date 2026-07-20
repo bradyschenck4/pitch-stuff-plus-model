@@ -1,0 +1,21 @@
+Pitcher,PitcherTeam,PitchType,Pitches,AvgVelo,AvgSpin,AvgIVB,AvgHB,PitchStuffPlus,WhiffPct,CSWPct,DevelopmentNote
+Ethan Walsh,OAK_COL,Four-Seam,45,92.9,2288.0,16.4,-7.0,102.9,0.5,0.422,Synthetic example output; rerun analysis/run_stuff_plus.R to regenerate.
+Ethan Walsh,OAK_COL,Changeup,70,84.6,1792.0,8.1,-12.4,102.7,0.333,0.286,Synthetic example output; rerun analysis/run_stuff_plus.R to regenerate.
+Ethan Walsh,OAK_COL,Sinker,73,91.6,2153.0,9.0,-13.4,102.5,0.484,0.384,Synthetic example output; rerun analysis/run_stuff_plus.R to regenerate.
+Ethan Walsh,OAK_COL,Slider,73,81.6,2416.0,3.0,6.8,101.9,0.622,0.493,Synthetic example output; rerun analysis/run_stuff_plus.R to regenerate.
+Ethan Walsh,OAK_COL,Curveball,28,76.7,2540.0,-7.7,7.8,100.9,0.462,0.357,Synthetic example output; rerun analysis/run_stuff_plus.R to regenerate.
+Mason Hill,RIV_WAV,Changeup,74,83.7,1750.0,8.3,-11.8,100.9,0.462,0.324,Synthetic example output; rerun analysis/run_stuff_plus.R to regenerate.
+Ryan Keller,OAK_COL,Changeup,24,83.2,1790.0,8.8,-12.4,100.8,0.273,0.333,Synthetic example output; rerun analysis/run_stuff_plus.R to regenerate.
+Owen Foster,RIV_WAV,Sinker,59,90.6,2125.0,9.1,-13.5,100.7,0.467,0.305,Synthetic example output; rerun analysis/run_stuff_plus.R to regenerate.
+Owen Foster,RIV_WAV,Changeup,55,83.4,1793.0,8.1,-12.1,100.6,0.632,0.345,Synthetic example output; rerun analysis/run_stuff_plus.R to regenerate.
+Owen Foster,RIV_WAV,Curveball,39,76.1,2493.0,-7.7,8.2,100.5,0.5,0.41,Synthetic example output; rerun analysis/run_stuff_plus.R to regenerate.
+Nolan Price,OAK_COL,Slider,67,80.4,2436.0,3.2,7.3,100.4,0.472,0.373,Synthetic example output; rerun analysis/run_stuff_plus.R to regenerate.
+Mason Hill,RIV_WAV,Slider,47,80.6,2401.0,3.0,7.1,100.4,0.385,0.34,Synthetic example output; rerun analysis/run_stuff_plus.R to regenerate.
+Nolan Price,OAK_COL,Four-Seam,78,91.4,2289.0,16.1,-7.1,100.2,0.424,0.423,Synthetic example output; rerun analysis/run_stuff_plus.R to regenerate.
+Owen Foster,RIV_WAV,Slider,65,80.6,2430.0,3.5,6.4,100.2,0.6,0.492,Synthetic example output; rerun analysis/run_stuff_plus.R to regenerate.
+Jake Monroe,OAK_COL,Curveball,45,75.5,2512.0,-7.7,8.7,99.9,0.5,0.356,Synthetic example output; rerun analysis/run_stuff_plus.R to regenerate.
+Mason Hill,RIV_WAV,Four-Seam,75,91.6,2257.0,16.2,-6.2,99.9,0.375,0.32,Synthetic example output; rerun analysis/run_stuff_plus.R to regenerate.
+Mason Hill,RIV_WAV,Curveball,64,76.0,2522.0,-7.4,7.9,99.9,0.556,0.453,Synthetic example output; rerun analysis/run_stuff_plus.R to regenerate.
+Owen Foster,RIV_WAV,Four-Seam,37,91.6,2269.0,16.6,-5.8,99.9,0.385,0.378,Synthetic example output; rerun analysis/run_stuff_plus.R to regenerate.
+Caleb Ortiz,OAK_COL,Slider,83,79.8,2425.0,3.4,7.2,99.6,0.5,0.386,Synthetic example output; rerun analysis/run_stuff_plus.R to regenerate.
+Ryan Keller,OAK_COL,Sinker,69,90.1,2128.0,8.8,-13.3,99.6,0.375,0.304,Synthetic example output; rerun analysis/run_stuff_plus.R to regenerate.
